@@ -4,7 +4,6 @@ C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.dll
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.pdb
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.csproj.AssemblyReference.cache
-C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.Form1.resources
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.csproj.GenerateResource.cache
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.pdb
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.genruntimeconfig.cache
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\ref\realHotelMVC.dll
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.View.resources
