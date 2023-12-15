@@ -2,7 +2,7 @@ namespace realHotelMVC
 {
     public partial class View : Form
     {
-        private Controller _controller;
+        private Controller _controller = new Controller();
 
         public Controller Controller { get => _controller; set => _controller = value; }
 
@@ -38,6 +38,8 @@ namespace realHotelMVC
             booking.DepartHotel = this.depart.Value;
             booking.NumberOfRoom = (int)this.nombrechambre.Value;
             booking.DemandeSpecial = this.demandeSpecial.Text;
+            booking.NumberOfDays = this.depart.Value.DayOfYear - this.Arrivee.Value.DayOfYear;
+            this.Controller.ProcessBooking(booking);
             
         }
     }
