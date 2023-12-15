@@ -11,7 +11,17 @@ namespace realHotelMVC
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+
+            View bookRoom = new View();
+            Model model = new Model();
+            Controller controller = new Controller();
+
+            controller.Model = model;
+            controller.View = bookRoom;
+            bookRoom.Controller = controller;
+            model.Controller = controller;
+
+            Application.Run(new View());
         }
     }
 }
