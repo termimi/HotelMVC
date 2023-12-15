@@ -16,7 +16,6 @@ namespace realHotelMVC
             if(booking.ArriveeHotel.Month == 12 && booking.NumberOfDays <3)
             {
                 MessageBox.Show("Veuillez reservez plus de 2 jours");
-                
             }
             else
             {

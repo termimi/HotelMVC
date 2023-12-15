@@ -15,3 +15,4 @@ C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.genruntimeconfig.cache
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\ref\realHotelMVC.dll
 C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.View.resources
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.Properties.Resources.resources

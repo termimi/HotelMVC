@@ -40,7 +40,17 @@ namespace realHotelMVC
             booking.DemandeSpecial = this.demandeSpecial.Text;
             booking.NumberOfDays = this.depart.Value.DayOfYear - this.Arrivee.Value.DayOfYear;
             this.Controller.ProcessBooking(booking);
-            
+
+        }
+
+        private void Titre_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
