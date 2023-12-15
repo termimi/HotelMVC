@@ -1,0 +1,17 @@
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.exe
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.deps.json
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.runtimeconfig.json
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.dll
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\bin\Debug\net6.0-windows\realHotelMVC.pdb
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.csproj.AssemblyReference.cache
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.Form1.resources
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.csproj.GenerateResource.cache
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.AssemblyInfoInputs.cache
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.AssemblyInfo.cs
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.csproj.CoreCompileInputs.cache
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.dll
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\refint\realHotelMVC.dll
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.pdb
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\realHotelMVC.genruntimeconfig.cache
+C:\Users\belkh\Documents\GitHub\HotelMVC\realHotelMVC\realHotelMVC\obj\Debug\net6.0-windows\ref\realHotelMVC.dll
