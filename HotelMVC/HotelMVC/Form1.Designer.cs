@@ -39,6 +39,7 @@
             label5 = new Label();
             label6 = new Label();
             typeChambre = new DomainUpDown();
+            Booker = new Button();
             ((System.ComponentModel.ISupportInitialize)nombreChambre).BeginInit();
             SuspendLayout();
             // 
@@ -142,11 +143,21 @@
             typeChambre.TabIndex = 11;
             typeChambre.Text = "type de chambre";
             // 
+            // Booker
+            // 
+            Booker.Location = new Point(330, 364);
+            Booker.Name = "Booker";
+            Booker.Size = new Size(75, 23);
+            Booker.TabIndex = 12;
+            Booker.Text = "Booker";
+            Booker.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(798, 450);
+            Controls.Add(Booker);
             Controls.Add(typeChambre);
             Controls.Add(label6);
             Controls.Add(label5);
@@ -179,5 +190,6 @@
         private Label label5;
         private Label label6;
         private DomainUpDown typeChambre;
+        private Button Booker;
     }
 }
