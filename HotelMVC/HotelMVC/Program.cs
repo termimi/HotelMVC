@@ -11,6 +11,9 @@ namespace HotelMVC
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
+
+            Model model = new Model();
+            Controller controller = new Controller();
             Application.Run(new Form1());
         }
     }

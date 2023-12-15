@@ -37,6 +37,8 @@
             numericUpDown1 = new NumericUpDown();
             textBox1 = new TextBox();
             label5 = new Label();
+            label6 = new Label();
+            typeChambre = new DomainUpDown();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
@@ -118,11 +120,35 @@
             label5.TabIndex = 9;
             label5.Text = "Demande spécial";
             // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(317, 292);
+            label6.Name = "label6";
+            label6.Size = new Size(97, 15);
+            label6.TabIndex = 10;
+            label6.Text = "Type de chambre";
+            // 
+            // typeChambre
+            // 
+            typeChambre.Items.Add("Chambre simple");
+            typeChambre.Items.Add("Chambre double");
+            typeChambre.Items.Add("Chambre KingSize");
+            typeChambre.Items.Add("");
+            typeChambre.Items.Add("");
+            typeChambre.Location = new Point(308, 310);
+            typeChambre.Name = "typeChambre";
+            typeChambre.Size = new Size(120, 23);
+            typeChambre.TabIndex = 11;
+            typeChambre.Text = "type de chambre";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(798, 450);
+            Controls.Add(typeChambre);
+            Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(textBox1);
             Controls.Add(numericUpDown1);
@@ -151,5 +177,7 @@
         private NumericUpDown numericUpDown1;
         private TextBox textBox1;
         private Label label5;
+        private Label label6;
+        private DomainUpDown typeChambre;
     }
 }
