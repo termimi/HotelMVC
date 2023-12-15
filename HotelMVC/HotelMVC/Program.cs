@@ -14,6 +14,12 @@ namespace HotelMVC
 
             Model model = new Model();
             Controller controller = new Controller();
+            View bookRoom = new View();
+
+            model.Controller = controller;
+            bookRoom.Controller = controller;
+            controller.Model = model;
+            controller.View = bookRoom;
             Application.Run(new Form1());
         }
     }

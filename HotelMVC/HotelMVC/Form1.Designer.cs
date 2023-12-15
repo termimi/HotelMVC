@@ -28,27 +28,27 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dateTimePicker1 = new DateTimePicker();
+            dateArrivee = new DateTimePicker();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            dateTimePicker2 = new DateTimePicker();
+            dateDepart = new DateTimePicker();
             label4 = new Label();
-            numericUpDown1 = new NumericUpDown();
-            textBox1 = new TextBox();
+            nombreChambre = new NumericUpDown();
+            demandeSpecial = new TextBox();
             label5 = new Label();
             label6 = new Label();
             typeChambre = new DomainUpDown();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nombreChambre).BeginInit();
             SuspendLayout();
             // 
-            // dateTimePicker1
+            // dateArrivee
             // 
-            dateTimePicker1.Location = new Point(275, 113);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(200, 23);
-            dateTimePicker1.TabIndex = 0;
-            dateTimePicker1.ValueChanged += dateTimePicker1_ValueChanged;
+            dateArrivee.Location = new Point(275, 113);
+            dateArrivee.Name = "dateArrivee";
+            dateArrivee.Size = new Size(200, 23);
+            dateArrivee.TabIndex = 0;
+            dateArrivee.ValueChanged += dateTimePicker1_ValueChanged;
             // 
             // label1
             // 
@@ -80,12 +80,12 @@
             label3.Text = "Date de départ";
             label3.Click += label3_Click;
             // 
-            // dateTimePicker2
+            // dateDepart
             // 
-            dateTimePicker2.Location = new Point(275, 178);
-            dateTimePicker2.Name = "dateTimePicker2";
-            dateTimePicker2.Size = new Size(200, 23);
-            dateTimePicker2.TabIndex = 4;
+            dateDepart.Location = new Point(275, 178);
+            dateDepart.Name = "dateDepart";
+            dateDepart.Size = new Size(200, 23);
+            dateDepart.TabIndex = 4;
             // 
             // label4
             // 
@@ -96,20 +96,20 @@
             label4.TabIndex = 6;
             label4.Text = "Numéros de chambre";
             // 
-            // numericUpDown1
+            // nombreChambre
             // 
-            numericUpDown1.Location = new Point(310, 222);
-            numericUpDown1.Maximum = new decimal(new int[] { 25, 0, 0, 0 });
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(120, 23);
-            numericUpDown1.TabIndex = 7;
+            nombreChambre.Location = new Point(310, 222);
+            nombreChambre.Maximum = new decimal(new int[] { 25, 0, 0, 0 });
+            nombreChambre.Name = "nombreChambre";
+            nombreChambre.Size = new Size(120, 23);
+            nombreChambre.TabIndex = 7;
             // 
-            // textBox1
+            // demandeSpecial
             // 
-            textBox1.Location = new Point(288, 266);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(161, 23);
-            textBox1.TabIndex = 8;
+            demandeSpecial.Location = new Point(288, 266);
+            demandeSpecial.Name = "demandeSpecial";
+            demandeSpecial.Size = new Size(161, 23);
+            demandeSpecial.TabIndex = 8;
             // 
             // label5
             // 
@@ -150,32 +150,32 @@
             Controls.Add(typeChambre);
             Controls.Add(label6);
             Controls.Add(label5);
-            Controls.Add(textBox1);
-            Controls.Add(numericUpDown1);
+            Controls.Add(demandeSpecial);
+            Controls.Add(nombreChambre);
             Controls.Add(label4);
-            Controls.Add(dateTimePicker2);
+            Controls.Add(dateDepart);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(dateTimePicker1);
+            Controls.Add(dateArrivee);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nombreChambre).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DateTimePicker dateTimePicker1;
+        private DateTimePicker dateArrivee;
         private Label label1;
         private Label label2;
         private Label label3;
-        private DateTimePicker dateTimePicker2;
+        private DateTimePicker dateDepart;
         private Label label4;
-        private NumericUpDown numericUpDown1;
-        private TextBox textBox1;
+        private NumericUpDown nombreChambre;
+        private TextBox demandeSpecial;
         private Label label5;
         private Label label6;
         private DomainUpDown typeChambre;
